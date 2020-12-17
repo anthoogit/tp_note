@@ -11,14 +11,6 @@ public class ServeurDiscussion {
     public ServeurDiscussion() {
     }
 
-//    public void ajouterRôle(Rôle role){
-//        this.mapping_role_utilisateur.put(role, new ArrayList<>());
-//    }
-//
-//    public void ajouterUtilisateurDansRôle(Rôle role, Utilisateur utilisateur){
-//        this.mapping_role_utilisateur.get(role).add(utilisateur);
-//    }
-
     public Map<Rôle, List<Utilisateur>> getMapping_role_utilisateur() {
         return mapping_role_utilisateur;
     }
