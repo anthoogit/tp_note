@@ -1,0 +1,11 @@
+Utilisateur.class
+Main.class
+ActionNonAutoriseeException.class
+Habilitation.class
+Canal.class
+Message.class
+ServeurDiscussion.class
+Webhook.class
+Rôle.class
+Destinataire.class
+WebhookAction.class
